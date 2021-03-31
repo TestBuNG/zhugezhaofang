@@ -9,7 +9,7 @@ cssselect==1.0.1
 hyperlink==17.1.1
 idna==2.6
 incremental==16.10.1
-lxml==3.8.0
+lxml==4.6.3
 olefile==0.44
 packaging==16.8
 parsel==1.2.0
